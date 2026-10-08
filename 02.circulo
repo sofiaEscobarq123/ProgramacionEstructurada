@@ -1,0 +1,14 @@
+Algoritmo circulo
+	Definir r,p, a Como Real
+	Escribir "Ingresar el radio al circulo"
+	Leer r
+	a = Pi * r * r
+	b = 2 * Pi * R
+	Escribir "el valor de area es" a
+	Escribir "el valor del perimetro es" p
+	
+	
+	
+	
+	
+FinAlgoritmo

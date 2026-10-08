@@ -1,0 +1,9 @@
+Algoritmo velocidad 
+	definir V, x, t como real
+	Escribir "ingresa la distancia (km):"
+	Leer x
+	Escribir "ingrese el tiempo (horas):"
+	Leer t
+	v = x/t
+	Escribir "tu velocidad es", v
+FinAlgoritmo
