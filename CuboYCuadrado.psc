@@ -1,0 +1,14 @@
+Algoritmo CuboYCuadrado
+	
+	Definir num, cuadrado, cubo Como Real
+	
+    Escribir "Ingrese un número:"
+    Leer num
+	
+    cuadrado <- num * num
+    cubo <- num * num * num
+	
+    Escribir "El cuadrado es: ", cuadrado
+    Escribir "El cubo es: ", cubo
+	
+FinAlgoritmo
